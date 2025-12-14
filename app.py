@@ -76,6 +76,7 @@ body {
 /* TEXT AREA */
 textarea {
     background: white !important;
+    color: black !important;
     border-radius: 12px !important;
     padding: 15px !important;
     font-size: 16px !important;
